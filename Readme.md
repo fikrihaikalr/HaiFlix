@@ -1,5 +1,5 @@
 ## HaiFlix
-
+HaiFlix is a movie discovery application that helps users explore, learn about, and keep track of their favorite movies. With an intuitive interface and comprehensive features, users can dive deep into the world of cinema right from their mobile device.
 ## Sneack peek Our App
 <div align="center">
   <img src="assets/Home_GIF.gif" width="200">
