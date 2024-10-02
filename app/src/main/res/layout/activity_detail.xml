@@ -200,7 +200,7 @@
                 android:id="@+id/tvCastAndCrew"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="CastAndCrew"
+                android:text="Cast And Crew"
                 android:textSize="16sp"
                 android:textColor="@color/white"
                 android:layout_marginTop="24dp"
